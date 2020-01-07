@@ -39,4 +39,5 @@ public class AutomationtestingIndex {
     public void clicklinkWysiwyg(){
         linkWYSIWYG.click();
     }
+
 }
